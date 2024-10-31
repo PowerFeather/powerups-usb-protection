@@ -1528,6 +1528,30 @@
 		(layer "Edge.Cuts")
 		(uuid "8688a0cc-d548-4bd7-b3bd-9b87619ca27a")
 	)
+	(gr_text "SUPPLY"
+		(at 120.72 93.42 -90)
+		(layer "F.SilkS")
+		(uuid "2b5be3a5-018c-4c0c-85c2-f3ecda0f34e7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "RPI"
+		(at 126.1 97.47 90)
+		(layer "F.SilkS")
+		(uuid "e8c61f10-40a5-4d70-b912-244ad0875a0d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 122.64 93.43)
 		(end 121.97 93.43)
