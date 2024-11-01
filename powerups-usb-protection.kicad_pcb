@@ -99,7 +99,7 @@
 			(at 0.22 -1.88 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "28a9aaae-1803-4a3b-a78d-a373d03d218c")
+			(uuid "c6cf60fa-70e1-4a01-8976-8ee4397873a5")
 			(effects
 				(font
 					(size 0.801291 0.801291)
@@ -110,7 +110,7 @@
 		(property "Value" "DMN3016LFDE"
 			(at 0.01 1.91 90)
 			(layer "F.Fab")
-			(uuid "791ea024-45c2-4461-8c76-a28ee0034cb6")
+			(uuid "bd86b630-bdbb-4118-a3f8-4353c7fe776a")
 			(effects
 				(font
 					(size 0.801543 0.801543)
@@ -122,7 +122,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c41010d3-5758-41e4-b660-7c20216cfff6")
+			(uuid "526948c8-d9cd-4729-8eb9-fbc2e0d421d7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -134,7 +134,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "10d50649-21b0-42c8-98b1-7eaa3233ec66")
+			(uuid "59b1c566-6930-4701-afc4-b1f9712e5256")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -146,7 +146,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8df49542-70e0-4294-8bba-b62cd9f469e3")
+			(uuid "37ffc434-81b2-4bce-82fc-cfc3e6dd5d23")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -181,7 +181,7 @@
 			)
 			(fill solid)
 			(layer "F.Paste")
-			(uuid "35623127-3986-452e-b23e-47cc0b36c11e")
+			(uuid "fe1180ad-5d72-48c0-8bc5-3515c0f733c5")
 		)
 		(fp_line
 			(start -1 1.1)
@@ -191,7 +191,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8892ff78-ed14-4945-9af6-1ad6d834efc9")
+			(uuid "6fcc1365-13ee-4b90-8673-cc6d5057ce81")
 		)
 		(fp_line
 			(start -1 -1.05)
@@ -201,7 +201,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7c83b532-d342-4311-a870-b744676ceee8")
+			(uuid "381cb672-332a-4464-a188-cbb79e8fa339")
 		)
 		(fp_circle
 			(center -1.7 -0.7)
@@ -212,7 +212,73 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "60ecd63f-7812-43b9-a1e0-65ad2a2ffcce")
+			(uuid "c9441d74-ecfb-429b-91ab-ccdeb3179110")
+		)
+		(fp_rect
+			(start -0.41 0.56)
+			(end 0.41 0.74)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.Mask")
+			(uuid "770ec01f-832e-45c9-8ddc-8b8757bad48b")
+		)
+		(fp_rect
+			(start -1.1 0.5)
+			(end -0.7 0.8)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.Mask")
+			(uuid "e930a358-e1e1-4c54-96a9-a59766c1b025")
+		)
+		(fp_rect
+			(start 0.7 0.5)
+			(end 1.1 0.8)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.Mask")
+			(uuid "1e73827e-59f5-4db8-b78d-db3437da3727")
+		)
+		(fp_rect
+			(start -1.1 -0.15)
+			(end 1.1 0.15)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.Mask")
+			(uuid "60f0363f-8dfc-433e-a75a-12af9f2a33ac")
+		)
+		(fp_rect
+			(start -1.1 -0.8)
+			(end 1.1 -0.5)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.Mask")
+			(uuid "2d51288e-819f-4bcc-9e2c-0159d1a2435c")
+		)
+		(fp_rect
+			(start -0.74 -0.8)
+			(end 0.74 0.15)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.Mask")
+			(uuid "d1ab6548-9444-49be-8e37-94be214650fc")
 		)
 		(fp_line
 			(start -1.4 1.25)
@@ -222,7 +288,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ac55a66d-6a3a-44c5-a7ab-0057440645a3")
+			(uuid "91781890-3fad-4b01-8f75-127d01d0266e")
 		)
 		(fp_line
 			(start 1.4 1.25)
@@ -232,7 +298,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c3d1e252-d270-4576-9abb-f677df0b0e4f")
+			(uuid "9fa334fc-b77b-493e-9616-418cd4cbde37")
 		)
 		(fp_line
 			(start -1.4 -1.25)
@@ -242,7 +308,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "fa621a36-dd89-4f81-8353-1ee6abd5ad84")
+			(uuid "ed8d0ca8-109c-4bb8-b219-ab2f5461ae35")
 		)
 		(fp_line
 			(start 1.4 -1.25)
@@ -252,7 +318,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0021021c-9772-4cc7-8545-2c33c3f8ffb8")
+			(uuid "3f2df721-781a-41d5-8785-ac8619544e0d")
 		)
 		(fp_line
 			(start -1 1)
@@ -262,7 +328,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "06862720-651f-4ada-a561-6e7bed62eb7e")
+			(uuid "f43aa5a3-10d3-4b56-ba7d-1508bc27afaf")
 		)
 		(fp_line
 			(start 1 1)
@@ -272,7 +338,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "6f773f04-618e-46af-9d52-d4c819ab4feb")
+			(uuid "017d4f9c-30bc-476d-9041-9c910c7549eb")
 		)
 		(fp_line
 			(start -1 -1)
@@ -282,7 +348,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "ca095703-811b-4d6c-b7ed-a1c4a3f9c29c")
+			(uuid "1ee1624d-9c84-447d-aa30-59f857339c42")
 		)
 		(fp_line
 			(start 1 -1)
@@ -292,7 +358,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "87e0ada7-07ff-4730-adc2-7ef91f28a0e5")
+			(uuid "3967ea55-bfe9-41e9-9f61-6c3868959bfc")
 		)
 		(pad "1" smd rect
 			(at -0.9 0.65 270)
@@ -302,7 +368,18 @@
 			(pinfunction "G")
 			(pintype "input")
 			(solder_mask_margin 0.102)
-			(uuid "31be3f97-862b-4cff-9c02-0fef82988ee2")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled no)
+				(allow_two_segments no)
+				(prefer_zone_connections no)
+			)
+			(uuid "8042e7a1-4384-4a8c-baa1-84104f4db489")
 		)
 		(pad "2" smd custom
 			(at -0.9 -0.65 270)
@@ -326,7 +403,7 @@
 					(fill yes)
 				)
 			)
-			(uuid "90ef903e-74e1-4fc8-9541-59a9ed6fb3b9")
+			(uuid "92eb2880-164c-4567-a6f8-83f7349653a9")
 		)
 		(pad "2" smd rect
 			(at -0.9 0 270)
@@ -336,7 +413,7 @@
 			(pinfunction "D")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
-			(uuid "55d3523c-bf28-474c-a78a-74c21c0444f1")
+			(uuid "4fb389b2-62bf-4d6d-82a2-3f0ca955e491")
 		)
 		(pad "2" smd rect
 			(at 0.9 -0.65 270)
@@ -346,7 +423,7 @@
 			(pinfunction "D")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
-			(uuid "fa01bf56-2ccd-43f1-bc0c-f61e93d3cfba")
+			(uuid "670a3775-ea0e-40cd-9c4e-3b31a54ed7aa")
 		)
 		(pad "2" smd rect
 			(at 0.9 0 270)
@@ -356,7 +433,7 @@
 			(pinfunction "D")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
-			(uuid "76f6b8d2-a092-428b-a8f8-d9e550dbd8f3")
+			(uuid "44e4bfd5-bb5d-4207-94eb-855c03c3a5c3")
 		)
 		(pad "3" smd rect
 			(at 0 0.65 270)
@@ -366,7 +443,7 @@
 			(pinfunction "S")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
-			(uuid "20e0041b-8f1f-4652-a9cb-e89cc86878a5")
+			(uuid "0bae0709-4f66-4814-bd47-580b791caaa1")
 		)
 		(pad "3" smd rect
 			(at 0.9 0.65 270)
@@ -376,18 +453,7 @@
 			(pinfunction "S")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
-			(uuid "453279e3-6f20-455a-b8dc-d3f64708c29d")
-		)
-		(model "${KIPRJMOD}/powerfeather-kicad-lib/3d/DMN3016LFDE.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
-			)
+			(uuid "8bfc9176-5c63-4500-830b-b9b5d71ca092")
 		)
 	)
 	(footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
