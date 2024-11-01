@@ -1,0 +1,10 @@
+### Footprint positions - created on 2024-11-01T15:36:49+0900 ###
+### Printed by KiCad version 8.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                   PosX       PosY       Rot  Side
+P1        USB_C_Plug_USB2.0  USB_C_Receptacle_HRO_TYPE-C-31-M-12   131.9500   -96.1300   90.0000  top
+P2        USB_C_Plug_USB2.0  USB_C_Receptacle_HRO_TYPE-C-31-M-12   115.4250   -96.1400  -90.0000  top
+Q1        DMN3016LFDE        DMN3016LFDE                           123.3300   -98.6700  -90.0000  top
+U1        NCV68261           DFN-6_2x2mm_P0.65mm_EP1x1.6mm         123.2900   -94.4800   90.0000  top
+## End
