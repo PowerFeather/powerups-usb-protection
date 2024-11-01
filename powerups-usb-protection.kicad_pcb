@@ -458,6 +458,19 @@
 				)
 			)
 		)
+		(property "MPN" "640-USB4105-GF-A-060 "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a99df05b-7b8b-46c6-800c-7e6ad34ca71c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/a49ec782-54f3-48bf-8c0e-6b4b989b020b")
 		(sheetname "Root")
@@ -886,6 +899,19 @@
 				)
 			)
 		)
+		(property "MPN" "640-USB4105-GF-A-060 "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ac06f62-f3cb-4ee1-a870-a68f8bd18874")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/2ced3edb-0909-4529-9e68-86f524f29022")
 		(sheetname "Root")
@@ -1310,6 +1336,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "863-NCV68261MTWAITBG "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e27452da-bf13-4e33-a85d-e7a84e5f135c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)

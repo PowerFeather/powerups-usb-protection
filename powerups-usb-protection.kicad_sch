@@ -1848,6 +1848,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "863-NCV68261MTWAITBG "
+			(at 97.79 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "7bdc7dfe-65cc-4c08-a1e9-6f8e6007dc63")
 		)
@@ -1919,6 +1928,15 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 54.61 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "640-USB4105-GF-A-060 "
 			(at 54.61 60.96 0)
 			(effects
 				(font
@@ -2032,6 +2050,15 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 139.7 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "640-USB4105-GF-A-060 "
 			(at 139.7 60.96 0)
 			(effects
 				(font
