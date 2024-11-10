@@ -7,7 +7,7 @@
 	(title_block
 		(title "PowerUPS USB Supply Protection")
 		(date "2024-10-27")
-		(rev "0.9.0")
+		(rev "0.9.1")
 		(company "PowerFeather")
 	)
 	(lib_symbols
@@ -1410,12 +1410,6 @@
 		(uuid "cfc71676-ce18-4f4d-8eba-ca8ff4ed4026")
 	)
 	(junction
-		(at 97.79 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d26d57d5-2065-4744-b19b-e10a6b5bc919")
-	)
-	(junction
 		(at 121.92 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1433,6 +1427,10 @@
 		(color 0 0 0 0)
 		(uuid "d81412cb-c4d4-4917-a412-1749b11260a1")
 	)
+	(no_connect
+		(at 105.41 45.72)
+		(uuid "9238ced7-2045-4039-9e00-11b757ca21b0")
+	)
 	(wire
 		(pts
 			(xy 54.61 83.82) (xy 97.79 83.82)
@@ -1442,16 +1440,6 @@
 			(type default)
 		)
 		(uuid "0164772b-9b14-4451-aefe-d6f75c001d39")
-	)
-	(wire
-		(pts
-			(xy 105.41 45.72) (xy 107.95 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04bfdabf-ce83-47fc-816a-d479a05c0df4")
 	)
 	(wire
 		(pts
@@ -1565,16 +1553,6 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 67.31) (xy 97.79 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5cce78b2-838a-4189-bef9-748f88659b20")
-	)
-	(wire
-		(pts
 			(xy 80.01 43.18) (xy 80.01 45.72)
 		)
 		(stroke
@@ -1595,7 +1573,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 67.31) (xy 97.79 83.82)
+			(xy 97.79 49.53) (xy 97.79 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1635,16 +1613,6 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 45.72) (xy 107.95 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "890a2860-b663-4ed6-8b87-42a4bac81344")
-	)
-	(wire
-		(pts
 			(xy 69.85 73.66) (xy 124.46 73.66)
 		)
 		(stroke
@@ -1672,16 +1640,6 @@
 			(type default)
 		)
 		(uuid "9952ec50-d670-4a36-91e3-af2012eacbc6")
-	)
-	(wire
-		(pts
-			(xy 97.79 49.53) (xy 97.79 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b4e3169-96a8-4880-b1ac-e9bc3b28c76b")
 	)
 	(wire
 		(pts
