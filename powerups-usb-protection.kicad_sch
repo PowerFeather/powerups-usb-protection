@@ -1005,7 +1005,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PowerFeather_KiCAD_Lib:DFN-6_2x2mm_P0.65mm_EP1x1.6mm"
+			(property "Footprint" "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
 				(at 0 -10.668 0)
 				(effects
 					(font
@@ -1147,6 +1147,24 @@
 						)
 					)
 					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -1.27 180)
+					(length 2.54)
+					(name "EP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1392,6 +1410,12 @@
 		(uuid "cfc71676-ce18-4f4d-8eba-ca8ff4ed4026")
 	)
 	(junction
+		(at 97.79 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d26d57d5-2065-4744-b19b-e10a6b5bc919")
+	)
+	(junction
 		(at 121.92 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1418,6 +1442,16 @@
 			(type default)
 		)
 		(uuid "0164772b-9b14-4451-aefe-d6f75c001d39")
+	)
+	(wire
+		(pts
+			(xy 105.41 45.72) (xy 107.95 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04bfdabf-ce83-47fc-816a-d479a05c0df4")
 	)
 	(wire
 		(pts
@@ -1531,6 +1565,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 67.31) (xy 97.79 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cce78b2-838a-4189-bef9-748f88659b20")
+	)
+	(wire
+		(pts
 			(xy 80.01 43.18) (xy 80.01 45.72)
 		)
 		(stroke
@@ -1548,6 +1592,16 @@
 			(type default)
 		)
 		(uuid "641e500d-654d-43b7-ba25-0f0a79bba752")
+	)
+	(wire
+		(pts
+			(xy 97.79 67.31) (xy 97.79 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "738e9ed2-8869-42f1-991f-8757bef0d364")
 	)
 	(wire
 		(pts
@@ -1581,6 +1635,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 45.72) (xy 107.95 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "890a2860-b663-4ed6-8b87-42a4bac81344")
+	)
+	(wire
+		(pts
 			(xy 69.85 73.66) (xy 124.46 73.66)
 		)
 		(stroke
@@ -1611,7 +1675,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 49.53) (xy 97.79 83.82)
+			(xy 97.79 49.53) (xy 97.79 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2036,7 +2100,7 @@
 		(dnp no)
 		(uuid "271c50d1-8b19-453c-9e3a-468305d4f8f9")
 		(property "Reference" "U1"
-			(at 104.648 46.482 0)
+			(at 100.838 36.068 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2044,14 +2108,14 @@
 			)
 		)
 		(property "Value" "NCV68261"
-			(at 108.204 43.942 0)
+			(at 104.394 37.846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "PowerFeather_KiCAD_Lib:DFN-6_2x2mm_P0.65mm_EP1x1.6mm"
+		(property "Footprint" "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
 			(at 97.79 55.118 0)
 			(effects
 				(font
@@ -2104,6 +2168,9 @@
 		)
 		(pin "3"
 			(uuid "94613ac0-ba30-49c2-a728-5651cd0d440d")
+		)
+		(pin "7"
+			(uuid "23f8b818-9720-40c7-97ed-06aabb4da6c1")
 		)
 		(instances
 			(project ""
